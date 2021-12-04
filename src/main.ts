@@ -6,7 +6,7 @@ class AppController {
 
     @Get()
     getRootRoute () {
-        return 'hi there!';
+        return 'hi anywhere!';
     }
 }
 
